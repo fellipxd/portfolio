@@ -305,6 +305,7 @@ footer p{
   section{
     background-image: none;
     background-color: #f7f7f7;
+    width: 100%;
   }
   .model{
     display: none;
@@ -316,21 +317,24 @@ footer p{
   }
   .text-container{
     top: 50%;
-    left: 50%;
+    left: 20%;
     transform: translate(-50% -50%);
-    width: 80%;
+    width: 100%;
   }
   .about-container{
     top: 0;
     flex-direction: column;
-    width: 90%;
+    width: 100%;
     height: auto;
     padding: 30px 0;
     align-items: center; 
   }
   .abt-text{
     width: 90%;
-    text-align: center;
+    text-align: ;
+  }
+  .footer{
+    width:100%
   }
   .footer p{
     font-size: 20px;
