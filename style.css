@@ -342,12 +342,6 @@ footer p{
   .contact{
     height: 180px;
   }
-  .box-1 p:nth-child(2){
-     font-size: 22px;
-  }
-  .box-2 p:nth-child(2){
-     font-size: 22px;
-  } 
 }
 
 
